@@ -1,2 +1,2 @@
 # springboot_git
-Spring Boot projects
+Spring Boot JPA Project
