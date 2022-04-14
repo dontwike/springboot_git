@@ -1,4 +1,4 @@
-# Spring Boot JPA Repository Testing
+# Spring Boot JPA Repository UNIT Testing
 Spring Boot is the most popular framework to develop RESTful Services. It has awesome unit testing capabilities through Spring Boot Starter Test.
 
 I learned to build unit tests for simple RESTful Services with Spring Boot Starter Test. I have learned to write independent unit tests for RESTful web services talking with multiple layers - web, business and data. I have learned how to write integration tests using MySQL Database.
